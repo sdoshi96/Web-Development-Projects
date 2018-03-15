@@ -1,0 +1,8 @@
+{
+    "jscodehints.detectedExclusions": [
+        "D:/Ionic/conFusion/gulpfile.js",
+        "D:/Ionic/conFusion/www/lib/ionic/js/ionic.min.js",
+        "D:/Ionic/conFusion/www/js/controllers.js",
+        "D:/Ionic/conFusion/www/lib/ionic/js/ionic.js"
+    ]
+}
